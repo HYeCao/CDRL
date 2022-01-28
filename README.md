@@ -16,6 +16,8 @@
 + GPU: NVIDIA GTX1080
 + CUDA: 8.0
 
+# Environment
+/raw_data
 
 # Running
 
