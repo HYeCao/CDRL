@@ -1,0 +1,16 @@
+believable 16
+typical 7
+strange 7
+thought 7
+often 7
+rather 6
+looks 6
+rated 6
+loves 6
+ending 6
+cannot 6
+like 6
+suspenseful 5
+sappy 5
+realistic 5
+bored 5
